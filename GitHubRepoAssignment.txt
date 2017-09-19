@@ -1,0 +1,11 @@
+cd desktop
+cd DojoAssignments
+cd WebFundamentals
+cd Git
+mkdir GitHubRepoAssignment
+cd GitHubRepoAssignment
+git init
+git add .
+git commit -m "added readme file"
+git remote add origin https://github.com/chenjimmym/GitHubRepoAssignment.git
+git push -u origin master
